@@ -1,0 +1,19 @@
+.jumbotron {
+  color: red;
+  text-align: center;
+   background: linear-gradient( lightgrey, darkgrey );
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+  body{
+    background-color: black;
+  }
+
+  .pFont {
+    font-family: fantasy;
+    color: black;
+    text-shadow: 3px 7px 10px black;
+  }
