@@ -21,12 +21,7 @@ $(document).ready(function(){
     $(".item6").click(function() {
       $("#myCarousel").carousel(5);
     });
-    $(".item7").click(function() {
-      $("#myCarousel").carousel(6);
-    });
-    $(".item8").click(function() {
-      $("#myCarousel").carousel(7);
-    });
+  
 
     // Enable Carousel Controls
     $(".left").click(function(){
